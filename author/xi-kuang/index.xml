@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xi Kuang | Zhang Lab@HKUST(GZ)</title>
+    <link>https://xianzhanglab.github.io/author/xi-kuang/</link>
+      <atom:link href="https://xianzhanglab.github.io/author/xi-kuang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xi Kuang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://xianzhanglab.github.io/author/xi-kuang/avatar_hu164058ced9840029e57eceda5bab080f_1908334_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xi Kuang</title>
+      <link>https://xianzhanglab.github.io/author/xi-kuang/</link>
+    </image>
+    
+  </channel>
+</rss>

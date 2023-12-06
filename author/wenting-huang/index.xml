@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenting Huang | Zhang Lab@HKUST(GZ)</title>
+    <link>https://xianzhanglab.github.io/author/wenting-huang/</link>
+      <atom:link href="https://xianzhanglab.github.io/author/wenting-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenting Huang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://xianzhanglab.github.io/author/wenting-huang/avatar_hude5f601471423850dee74e28d014eae5_3350865_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Wenting Huang</title>
+      <link>https://xianzhanglab.github.io/author/wenting-huang/</link>
+    </image>
+    
+  </channel>
+</rss>

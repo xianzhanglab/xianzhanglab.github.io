@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruiming Xu | Zhang Lab@HKUST(GZ)</title>
+    <link>https://xianzhanglab.github.io/author/ruiming-xu/</link>
+      <atom:link href="https://xianzhanglab.github.io/author/ruiming-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruiming Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://xianzhanglab.github.io/author/ruiming-xu/avatar_hue70167b8aaf56e0966ff3e25d321b857_97785_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ruiming Xu</title>
+      <link>https://xianzhanglab.github.io/author/ruiming-xu/</link>
+    </image>
+    
+  </channel>
+</rss>
