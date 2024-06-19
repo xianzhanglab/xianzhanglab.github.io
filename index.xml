@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhang Lab@HKUST(GZ)</title>
+    <link>https://xianzhanglab.github.io/</link>
+      <atom:link href="https://xianzhanglab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhang Lab@HKUST(GZ)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianzhanglab.github.io/media/icon_hu4796e7fadfa0af444f19a3c83cab13d2_9239_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhang Lab@HKUST(GZ)</title>
+      <link>https://xianzhanglab.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://xianzhanglab.github.io/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://xianzhanglab.github.io/event/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome a new Member Join our Lab!</title>
+      <link>https://xianzhanglab.github.io/post/23-12-6-welcome-feng/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://xianzhanglab.github.io/post/23-12-6-welcome-feng/</guid>
+      <description>&lt;p&gt;We are excited to announce that our lab has welcomed a new Mphil Student, Yizhuo Feng, to our team! We are thrilled to have Yizhuo Feng join us and bring her expertise and knowledge to our research lab. Let&amp;rsquo;s give Yizhuo Feng a warm welcome and work together to achieve our scientific goals.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome a new Member Join our Lab!</title>
+      <link>https://xianzhanglab.github.io/post/23-9-22-welcome-kuang/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://xianzhanglab.github.io/post/23-9-22-welcome-kuang/</guid>
+      <description>&lt;p&gt;We are excited to announce that our lab has welcomed a new research assistant, Xi Kuang, to our team! We are thrilled to have Xi Kuang join us and bring her expertise and knowledge to our research lab. Let&amp;rsquo;s give Xi Kuang a warm welcome and work together to achieve our scientific goals.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://xianzhanglab.github.io/contact/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://xianzhanglab.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://xianzhanglab.github.io/people/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://xianzhanglab.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>https://xianzhanglab.github.io/tour/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://xianzhanglab.github.io/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xianzhanglab.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xianzhanglab.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>https://xianzhanglab.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xianzhanglab.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

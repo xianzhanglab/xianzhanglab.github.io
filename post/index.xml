@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Zhang Lab@HKUST(GZ)</title>
+    <link>https://xianzhanglab.github.io/post/</link>
+      <atom:link href="https://xianzhanglab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xianzhanglab.github.io/media/icon_hu4796e7fadfa0af444f19a3c83cab13d2_9239_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest News</title>
+      <link>https://xianzhanglab.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Welcome a new Member Join our Lab!</title>
+      <link>https://xianzhanglab.github.io/post/23-12-6-welcome-feng/</link>
+      <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://xianzhanglab.github.io/post/23-12-6-welcome-feng/</guid>
+      <description>&lt;p&gt;We are excited to announce that our lab has welcomed a new Mphil Student, Yizhuo Feng, to our team! We are thrilled to have Yizhuo Feng join us and bring her expertise and knowledge to our research lab. Let&amp;rsquo;s give Yizhuo Feng a warm welcome and work together to achieve our scientific goals.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome a new Member Join our Lab!</title>
+      <link>https://xianzhanglab.github.io/post/23-9-22-welcome-kuang/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://xianzhanglab.github.io/post/23-9-22-welcome-kuang/</guid>
+      <description>&lt;p&gt;We are excited to announce that our lab has welcomed a new research assistant, Xi Kuang, to our team! We are thrilled to have Xi Kuang join us and bring her expertise and knowledge to our research lab. Let&amp;rsquo;s give Xi Kuang a warm welcome and work together to achieve our scientific goals.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
